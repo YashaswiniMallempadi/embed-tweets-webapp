@@ -11,7 +11,7 @@ Here is the working model of our Webapp.
 If any user tweets any tweet using these hashtags in past seven days.We can see those tweets from our Web app
 
 #WomenHarrasment
-![image](https://github.com/YashaswiniMallempadi/embed-tweets-webapp/blob/main/Screenshot%202022-06-30%20164419.png)
+![image](https://github.com/YashaswiniMallempadi/embed-tweets-webapp/blob/main/screenshot2.png)
 
 as shown above tweets are displayed.
 
